@@ -1,5 +1,5 @@
 🛍️ Tienda de Ropa - Feria de Funes
-✨ Un eCommerce sencillo y elegante para vender ropa en la feria de Funes y sus alrededores.
+✨ Un ecommerce sencillo y elegante para vender ropa en la feria de Funes y sus alrededores.
 
 Este proyecto es una página web desarrollada para mostrar y vender prendas de ropa en ferias locales, con un diseño responsive y fácil de usar.
 
